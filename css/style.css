@@ -507,4 +507,5 @@ body {
 
 .fab:hover {
   color: #5474fd;
+  cursor: pointer;
 }
