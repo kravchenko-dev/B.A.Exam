@@ -13,7 +13,7 @@
 
 .header_box {
   max-width: 1800px;
-  min-height: 820px;
+  max-height: 820px;
   margin: auto;
   text-align: center;
   font-family: 'Josefin Sans', sans-serif;
@@ -172,7 +172,7 @@
 
 .section_1_box {
   max-width: 1800px;
-  height: 1022px;
+  height: 686px;
   margin: auto;
   position: relative;
 }
@@ -473,6 +473,7 @@
 }
 
 .section_4_footer {
+  /* width: 1770px; */
   height: 268px;
   background-color: #232323;
   margin: 198px auto 15px;
